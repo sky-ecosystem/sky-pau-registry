@@ -19,7 +19,6 @@ library Ethereum {
     address internal constant BEACON                     = 0x829dC2b7E94B1954F0764E573f2E0d45Afa28199;
     address internal constant PAU_FACTORY                = 0x2ABf3A4d45Ad58c6e44897e117b4A173DfD76317;
     address internal constant ADMINISTERED_AGENT_FACTORY = 0x73EE3d0398BaF9ef5731Eb35ea7BFa7B741067b4;
-    address internal constant DEFAULT_PAU_ASSEMBLER      = 0xC8b478e3325548F4F18ba231Eed6880f53987f81;
 
     /******************************************************************************************************************/
     /*** SKY PAU Facets                                                                                             ***/
