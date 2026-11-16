@@ -43,6 +43,7 @@ library Ethereum {
     address internal constant PSM_FACET            = 0xE4A5dAc768a310cc2316f258901b32E499653064;
     address internal constant SPARK_VAULT_FACET    = 0xff0d19920E207e3A17eb5A2E5bA3AFA44836362b;
     address internal constant SUPERSTATE_FACET     = 0xeE197475607E9a27cCAA4786e740d2F0d0E706A7;
+    address internal constant SWAP_ASSET_FACET     = 0xdEF461199cAd81c65AbA3Ab406743fC40c68C5B6;
     address internal constant TRANSFER_ASSET_FACET = 0x4DA7608C331b8f135df5b985018933780eCd089D;
     address internal constant UNISWAP_V3_FACET     = 0x445D9Dc752F269Be48250f1A180CAC4c61cE4bab;
     address internal constant UNISWAP_V4_FACET     = 0x75D35ffB8e6B871E12EB549CcF6afD324c46E47D;
