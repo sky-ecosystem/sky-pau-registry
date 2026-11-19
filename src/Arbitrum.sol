@@ -47,7 +47,7 @@ library Arbitrum {
     /*** SKY PAS multisig addresses                                                                                 ***/
     /******************************************************************************************************************/
 
-    address internal constant PAS_CBEAM        = 0x492aae70E59551768BAF3c7159d3f951B6ed76Fe;
     address internal constant PAS_CORE_COUNCIL = 0x148eF923d764CBdc1597CcADBbbC66499C1A1432;
+    address internal constant PAS_SPARK_CBEAM  = 0x492aae70E59551768BAF3c7159d3f951B6ed76Fe;
 
 }
