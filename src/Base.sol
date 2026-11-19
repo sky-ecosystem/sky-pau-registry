@@ -18,7 +18,7 @@ library Base {
 
     address internal constant BEACON                     = 0x7ac96180C4d6b2A328D3a19ac059D0E7Fc3C6d41;  // diamond-pau/Beacon.sol@cbf71b2 (v1.14.0)
     address internal constant PAU_FACTORY                = 0x7b42Ed932f26509465F7cE3FAF76FfCe1275312f;  // diamond-pau/PAUFactory.sol@b0b7efd (v1.16.0)
-    address internal constant ADMINISTERED_AGENT_FACTORY = 0x182924C99843c16d5525fD160d39fa209978f221;  // pau-administered-agent/AdministeredAgentFactory.sol@bfaaf70 (v1.0.0)
+    address internal constant ADMINISTERED_AGENT_FACTORY = 0x182924C99843c16d5525fD160d39fa209978f221;  // pau-administered-agent/AdministeredAgentFactory.sol@6d09622 (v1.1.0)
 
     /******************************************************************************************************************/
     /*** SKY PAS addresses                                                                                          ***/
