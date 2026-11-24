@@ -17,8 +17,8 @@ library Arbitrum {
     /******************************************************************************************************************/
 
     address internal constant BEACON                     = 0x86036CE5d2f792367C0AA43164e688d13c5A60A8;  // diamond-pau/Beacon.sol@cbf71b2 (v1.14.0)
-    address internal constant PAU_FACTORY                = 0x4fd07Ef26B68b743238Db79021ff9265fBF2b8E7;  // diamond-pau/PAUFactory.sol@b0b7efd (v1.16.0)
-    address internal constant ADMINISTERED_AGENT_FACTORY = 0xCf18aA67274a8eB2F573D89992D11d1270601f5f;  // pau-administered-agent/AdministeredAgentFactory.sol@6d09622 (v1.1.0)
+    address internal constant PAU_FACTORY                = 0x4FF22A2CcBa1F0f3b982b839AA777f67c6c919f6;  // diamond-pau/PAUFactory.sol@b0b7efd (v1.16.0)
+    address internal constant ADMINISTERED_AGENT_FACTORY = 0xB6425948aD24da14eDEA099c9941Ce79467a0893;  // pau-administered-agent/AdministeredAgentFactory.sol@6d09622 (v1.1.0)
 
     /******************************************************************************************************************/
     /*** SKY PAS addresses                                                                                          ***/
